@@ -21,7 +21,7 @@ for container orchastration to run MapReduce jobs using Apache Hadoop.
 ### Repositories and images created and utilized ###
 
 * Docker image using base as amr7 ubuntu with hadoop and java on top [Link to image: [amr7-ubuntu-hd](https://hub.docker.com/r/raghavendrasomannavar/amr7-ubuntu-hd/)]
-* Shell scripts to automate the process of kubernetes cluster setup[Link to repo: [Kube-Construct](https://github.com/dark-shade/kube-construct)] 
+* Shell scripts to automate the process of kubernetes cluster setup [Link to repo: [Kube-Construct](https://github.com/dark-shade/kube-construct)] 
 
 ### How do I get set up? ###
 
@@ -55,3 +55,6 @@ for container orchastration to run MapReduce jobs using Apache Hadoop.
 * Rushit Thakkar
 * Jose George
 * Sai Sharan Nagulapalli
+
+### Team Pic ###
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
