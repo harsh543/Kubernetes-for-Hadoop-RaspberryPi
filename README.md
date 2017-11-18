@@ -57,4 +57,4 @@ for container orchastration to run MapReduce jobs using Apache Hadoop.
 * Sai Sharan Nagulapalli
 
 ### Team Pic ###
-![alt text](https://bitbucket.org/sankul/cs441-hw3/src/Images/teamPic.jpeg "Team Pic")
+![picture](images/teamPic.jpeg)
