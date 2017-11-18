@@ -47,14 +47,14 @@ for container orchastration to run MapReduce jobs using Apache Hadoop.
 
 ### Team members ###
 
-* Sankul Rawat
-* Harsh P Bajaj
-* Muttavarapu Sreeharsha
-* Raghavendra Somannavar
-* Harshit Pant
-* Rushit Thakkar
-* Jose George
-* Sai Sharan Nagulapalli
+* Sankul Rawat [[LinkedIn profile](https://www.linkedin.com/in/sankulrawat/)]
+* Harsh P Bajaj [[LinkedIn profile](https://www.linkedin.com/in/harshbajaj543/)]
+* Muttavarapu Sreeharsha [[LinkedIn profile](https://www.linkedin.com/in/sreeharsha-m-8a020569/)]
+* Raghavendra Somannavar [[LinkedIn profile](https://www.linkedin.com/in/raghavendra-somannavar-a8583788/)]
+* Harshit Pant [[LinkedIn profile](https://www.linkedin.com/in/harshit-pant-854468ba/)]
+* Rushit Thakker [[LinkedIn profile](https://www.linkedin.com/in/rushit-thakker-7928a364/)]
+* Jose George [[LinkedIn profile](https://www.linkedin.com/in/jose-george-90615885/)]
+* Sai Sharan Nagulapalli [[LinkedIn profile](https://www.linkedin.com/in/sharandec7/)]
 
 ### Team Pic ###
-![picture](images/teamPic.jpeg)
+![picture](Images/teamPic.jpeg)
